@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.927c9182.css",
+    "main.js": "/static/js/main.3b4a66be.js",
+    "static/js/787.4b20b6e4.chunk.js": "/static/js/787.4b20b6e4.chunk.js",
+    "static/media/alta_regular-webfont.woff": "/static/media/alta_regular-webfont.8152f49ee5c48688616e.woff",
+    "index.html": "/index.html",
+    "main.927c9182.css.map": "/static/css/main.927c9182.css.map",
+    "main.3b4a66be.js.map": "/static/js/main.3b4a66be.js.map",
+    "787.4b20b6e4.chunk.js.map": "/static/js/787.4b20b6e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927c9182.css",
+    "static/js/main.3b4a66be.js"
+  ]
+}
